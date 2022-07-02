@@ -1,0 +1,1949 @@
+/sys/module:
+total 0
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 8250
+drwxr-xr-x 6 root root 0 2022-07-01 21:16 8821cs
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 ahci
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 asix
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 bifrost_kbase
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 binder
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 binder_alloc
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 bio_crypt_ctx
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 blk_cgroup
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 block
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 bluetooth
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 bnep
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 bq25700_charger
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 brd
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 bridge
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 cdc_ncm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 cec
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 cfg80211
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ch
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 configfs
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 cpufreq
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 cpuidle
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 cryptomgr
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 dm_bufio
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 dm_mod
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 dm_snapshot
+drwxr-xr-x 3 root root 0 2022-07-01 21:16 dm_verity
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 drm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 drm_kms_helper
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 dummy
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ehci_hcd
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 fb
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 fiq_debugger
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 firmware_class
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 fscrypto
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 fuse
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 hci_uart
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 hid
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_apple
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_led
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_logitech
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_logitech_hidpp
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_magicmouse
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_ntrig
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_prodikeys
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hid_steam
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 hidp
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 hso
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 i2c_algo_bit
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 i2c_hid
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 iep
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ip6_tunnel
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ipv6
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 kernel
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 l2tp_core
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 l2tp_ppp
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 libahci
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 libata
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 loop
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 lt6911uxc
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 mac80211
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 mali
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 memory_group_manager
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 midgard_kbase
+drwxr-xr-x 3 root root 0 2022-07-01 21:17 mmcblk
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 module
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_amanda
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_ftp
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_h323
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_irc
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_netbios_ns
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_sane
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nf_conntrack_tftp
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 ntfs
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 nvme
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nvme_core
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 nvmem_rockchip_otp
+drwxr-xr-x 3 root root 0 2022-07-01 21:16 overlay
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 pcie_aspm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 phy_rockchip_csi2_dphy
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ppp_generic
+drwxr-xr-x 2 root root 0 2022-07-01 21:30 ppp_mppe
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 printk
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 psmouse
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 pstore
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 pvrsrvkm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 r8152
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 ramoops
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 random
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rcupdate
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rcutree
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rfcomm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rfkill
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk628_combrxphy
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk628_csi
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk817_battery
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk817_charger
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk818_battery
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk818_charger
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rk_vcodec
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rknpu
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rng_core
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 rockchip_pwm_remotectl
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sch_htb
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 scsi_mod
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sdhci
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sg
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sgm3784
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sierra_net
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sit
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 slab_common
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 smsc75xx
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 smsc95xx
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 snd
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 snd_pcm
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 snd_timer
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 snd_usb_audio
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 spidev
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 spurious
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 srcutree
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 stmmac
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 suspend
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 sysrq
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 tc35874x
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 tcp_cubic
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 test_power
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 usb_f_uvc
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 usb_storage
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 usbcore
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 usbhid
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 usblp
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 uvcvideo
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 video_rkcif
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 video_rkisp
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 video_rkisp1
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 videobuf2_common
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 videobuf2_dma_sg
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 videobuf2_v4l2
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 wacom
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 watchdog
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 workqueue
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 xhci_hcd
+drwxr-xr-x 4 root root 0 2022-07-01 21:30 xpad
+drwxr-xr-x 3 root root 0 2022-07-01 21:30 xt_quota2
+
+/sys/module/8250:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/8250/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 nr_uarts
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 share_irqs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 skip_txen_test
+
+/sys/module/8821cs:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 coresize
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 holders
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 initsize
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 initstate
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 notes
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 refcnt
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 sections
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 srcversion
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 taint
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/8821cs/holders:
+total 0
+
+/sys/module/8821cs/notes:
+total 0
+
+/sys/module/8821cs/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 if2name
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ifname
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_FileMaskEfuse
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_GLNA_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_OffEfuseMask
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_RFE_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_TxBBSwing_2G
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_TxBBSwing_5G
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_acs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_acs_auto_scan
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_adaptivity_en
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_adaptivity_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_adaptivity_th_edcca_hl_diff
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_adaptivity_th_l2h_ini
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ampdu_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_amplifier_type_2g
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_amplifier_type_5g
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ant_num
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_antdiv_cfg
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_antdiv_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_antenna_gain
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ap_fwd_b2u_flags
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ap_src_b2u_flags
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_btcoex_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_busy_thresh
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_bw_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ch_switch_offload
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_channel
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_channel_plan
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_check_hw_status
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_chip_version
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_country_code
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_decrypt_phy_file
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_dfs_region_domain
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_drv_ant_band_switch
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_drv_log_level
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_dynamic_agg_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_en_dyn_rrsr
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_en_gro
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_en_napi
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_enusbss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_excl_chs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_full_ch_in_p2p_handshake
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_halrf_ability
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_hiq_filter
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ht_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_hw_wps_pbc
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_hwpdn_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_hwpwrp_detect
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_initmac
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_ips_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_iqk_fw_offload
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_lbkmode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_load_phy_file
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_low_power
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_lps_chk_by_tp
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_lps_level
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_max_bss_cnt
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_max_roaming_times
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_mp_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_napi_threshold
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_network_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_notch_filter
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_pci_dynamic_aspm_linkctrl
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_phy_file_path
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_phydm_ability
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_pll_ref_clk_sel
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_power_mgnt
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_powertracking_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_pwrtrim_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_qos_opt_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_quick_addba_req
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_recvbuf_nr
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rfintfs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rrsr_value
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_ampdu_amsdu
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_ampdu_sz_limit_1ss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_ampdu_sz_limit_2ss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_ampdu_sz_limit_3ss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_ampdu_sz_limit_4ss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_nss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_path_lmt
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rx_stbc
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rxgain_offset_2g
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rxgain_offset_5gh
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rxgain_offset_5gl
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_rxgain_offset_5gm
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_scan_interval_thr
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_sel_p2p_iface
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_single_ant_path
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_smart_ps
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_stbc_cap
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_suspend_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_switch_usb_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_2g_a
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_2g_b
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_2g_c
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_2g_d
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_5g_a
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_5g_b
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_5g_c
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_target_tx_pwr_5g_d
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_trx_path_bmp
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tsf_update_pause_factor
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tsf_update_restore_factor
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_aclt_conf_ap_m2u
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_aclt_conf_default
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_aclt_flags
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_ampdu_amsdu
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_bw_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_nss
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_path_lmt
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_pwr_by_rate
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_tx_pwr_lmt_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_uapsd_ac_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_uapsd_max_sp
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_usb_rxagg_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_vcs_type
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_vht_24g_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_vht_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_vht_rx_mcs_map
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_vrtl_carrier_sense
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wakeup_event
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wifi_spec
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wireless_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wmm_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wmm_smart_ps
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wow_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wow_lps_level
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wow_power_mgnt
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rtw_wowlan_sta_mix_mode
+
+/sys/module/8821cs/sections:
+total 0
+-r-------- 1 root root 19 2022-07-01 21:31 __bug_table
+-r-------- 1 root root 19 2022-07-01 21:31 __param
+
+/sys/module/ahci:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/ahci/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 pci:ahci -> ../../../bus/pci/drivers/ahci
+
+/sys/module/ahci/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 marvell_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 mobile_lpm_policy
+
+/sys/module/asix:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/asix/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:asix -> ../../../bus/usb/drivers/asix
+
+/sys/module/bifrost_kbase:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/bifrost_kbase/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 corestack_driver_control
+
+/sys/module/binder:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/binder/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_mask
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 devices
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 stop_on_user_error
+
+/sys/module/binder_alloc:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/binder_alloc/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_mask
+
+/sys/module/bio_crypt_ctx:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/bio_crypt_ctx/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 num_prealloc_crypt_ctxs
+
+/sys/module/blk_cgroup:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/blk_cgroup/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 blkcg_debug_stats
+
+/sys/module/block:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/block/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 events_dfl_poll_msecs
+
+/sys/module/bluetooth:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/bluetooth/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_ertm
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_esco
+
+/sys/module/bnep:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/bnep/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 compress_dst
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 compress_src
+
+/sys/module/bq25700_charger:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/bq25700_charger/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/brd:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/brd/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 max_part
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 rd_nr
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 rd_size
+
+/sys/module/bridge:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/cdc_ncm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cdc_ncm/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:cdc_ncm -> ../../../bus/usb/drivers/cdc_ncm
+
+/sys/module/cdc_ncm/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 prefer_mbim
+
+/sys/module/cec:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cec/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/cfg80211:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cfg80211/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 bss_entries_limit
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 cfg80211_disable_40mhz_24ghz
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ieee80211_regdom
+
+/sys/module/ch:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ch/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 dt_id
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 dt_lun
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 init
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 timeout_init
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 timeout_move
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 vendor_counts
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 vendor_firsts
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 verbose
+
+/sys/module/configfs:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/cpufreq:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cpufreq/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 off
+
+/sys/module/cpuidle:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cpuidle/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 off
+
+/sys/module/cryptomgr:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/cryptomgr/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 notests
+
+/sys/module/dm_bufio:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/dm_bufio/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 allocated_get_free_pages_bytes
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 allocated_kmem_cache_bytes
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 allocated_vmalloc_bytes
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 current_allocated_bytes
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_age_seconds
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_cache_size_bytes
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 peak_allocated_bytes
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 retain_bytes
+
+/sys/module/dm_mod:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/dm_mod/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dm_mq_nr_hw_queues
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dm_mq_queue_depth
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dm_numa_node
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 reserved_bio_based_ios
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 reserved_rq_based_ios
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 stats_current_allocated_bytes
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 use_blk_mq
+
+/sys/module/dm_snapshot:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/dm_snapshot/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 snapshot_copy_throttle
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 snapshot_cow_threshold
+
+/sys/module/dm_verity:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:16 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/dm_verity/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:16 prefetch_cluster
+
+/sys/module/drm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/drm/parameters:
+total 0
+-rw------- 1 root root 4096 2022-07-01 21:31 debug
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 edid_firmware
+-r-------- 1 root root 4096 2022-07-01 21:31 edid_fixup
+-rw------- 1 root root 4096 2022-07-01 21:31 timestamp_precision_usec
+-rw------- 1 root root 4096 2022-07-01 21:31 vblankoffdelay
+
+/sys/module/drm_kms_helper:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/drm_kms_helper/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dp_aux_i2c_speed_khz
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dp_aux_i2c_transfer_size
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 drm_fbdev_overalloc
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 edid_firmware
+-rw------- 1 root root 4096 2022-07-01 21:31 fbdev_emulation
+-rw------- 1 root root 4096 2022-07-01 21:31 poll
+
+/sys/module/dummy:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/ehci_hcd:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ehci_hcd/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ignore_oc
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 log2_irq_thresh
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 park
+
+/sys/module/fb:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/fb/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 lockless_register_fb
+
+/sys/module/fiq_debugger:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/fiq_debugger/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 console_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 kgdb_enable
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 no_sleep
+
+/sys/module/firmware_class:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/firmware_class/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 path
+
+/sys/module/fscrypto:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/fscrypto/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 num_prealloc_crypto_pages
+
+/sys/module/fuse:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/fuse/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_user_bgreq
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_user_congthresh
+
+/sys/module/hci_uart:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/hid:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid/parameters:
+total 0
+-rw------- 1 root root 4096 2022-07-01 21:31 debug
+-rw------- 1 root root 4096 2022-07-01 21:31 ignore_special_drivers
+
+/sys/module/hid_apple:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_apple/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:apple -> ../../../bus/hid/drivers/apple
+
+/sys/module/hid_apple/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 fnmode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 iso_layout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 swap_opt_cmd
+
+/sys/module/hid_led:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_led/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:hid-led -> ../../../bus/hid/drivers/hid-led
+
+/sys/module/hid_led/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 riso_kagaku_switch_green_blue
+
+/sys/module/hid_logitech:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_logitech/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:logitech -> ../../../bus/hid/drivers/logitech
+
+/sys/module/hid_logitech/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 lg4ff_no_autoswitch
+
+/sys/module/hid_logitech_hidpp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_logitech_hidpp/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:logitech-hidpp-device -> ../../../bus/hid/drivers/logitech-hidpp-device
+
+/sys/module/hid_logitech_hidpp/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_raw_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_tap_to_click
+
+/sys/module/hid_magicmouse:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_magicmouse/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:magicmouse -> ../../../bus/hid/drivers/magicmouse
+
+/sys/module/hid_magicmouse/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 emulate_3button
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 emulate_scroll_wheel
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 report_undeciphered
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 scroll_acceleration
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 scroll_speed
+
+/sys/module/hid_ntrig:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_ntrig/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:ntrig -> ../../../bus/hid/drivers/ntrig
+
+/sys/module/hid_ntrig/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 activate_slack
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 activation_height
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 activation_width
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 deactivate_slack
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 min_height
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 min_width
+
+/sys/module/hid_prodikeys:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_prodikeys/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:prodikeys -> ../../../bus/hid/drivers/prodikeys
+
+/sys/module/hid_prodikeys/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 enable
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 id
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 index
+
+/sys/module/hid_steam:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hid_steam/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:hid-steam -> ../../../bus/hid/drivers/hid-steam
+
+/sys/module/hid_steam/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 lizard_mode
+
+/sys/module/hidp:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/hso:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/hso/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:hso -> ../../../bus/usb/drivers/hso
+
+/sys/module/hso/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_net
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 tty_major
+
+/sys/module/i2c_algo_bit:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/i2c_algo_bit/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 bit_test
+
+/sys/module/i2c_hid:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/i2c_hid/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/iep:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/iep/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/ip6_tunnel:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ip6_tunnel/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 log_ecn_error
+
+/sys/module/ipv6:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ipv6/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 autoconf
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 disable
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 disable_ipv6
+
+/sys/module/kernel:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/kernel/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 crash_kexec_post_notifiers
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ignore_rlimit_data
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 initcall_debug
+-r-------- 1 root root 4096 2022-07-01 21:31 irqtime
+-r-------- 1 root root 4096 2022-07-01 21:31 module_blacklist
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 panic
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 panic_on_warn
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 pause_on_oops
+
+/sys/module/l2tp_core:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/l2tp_ppp:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/libahci:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/libahci/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ahci_em_messages
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 devslp_idle_timeout
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ignore_sss
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 skip_host_reset
+
+/sys/module/libata:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/libata/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 allow_tpm
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ata_probe_timeout
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 atapi_an
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 atapi_dmadir
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 atapi_enabled
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 atapi_passthru16
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 dma
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 fua
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ignore_hpa
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 noacpi
+
+/sys/module/loop:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/loop/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 max_loop
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 max_part
+
+/sys/module/lt6911uxc:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/lt6911uxc/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/mac80211:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/mac80211/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 beacon_loss_count
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ieee80211_default_rc_algo
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_nullfunc_tries
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_probe_tries
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 probe_wait_ms
+
+/sys/module/mali:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/mali/parameters:
+total 0
+-rw-rw-r-- 1 root root 4096 2022-07-01 21:31 mali_debug_level
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_dedicated_mem_size
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_dedicated_mem_start
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_l2_max_reads
+-rw-rw-r-- 1 root root 4096 2022-07-01 21:31 mali_max_job_runtime
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_max_pp_cores_group_1
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_max_pp_cores_group_2
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_mem_swap_out_threshold_value
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 mali_shared_mem_size
+
+/sys/module/memory_group_manager:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/midgard_kbase:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/mmcblk:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:17 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/mmcblk/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:17 perdev_minors
+
+/sys/module/module:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/module/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 sig_enforce
+
+/sys/module/nf_conntrack:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 acct
+-r-------- 1 root root 4096 2022-07-01 21:31 expect_hashsize
+-rw------- 1 root root 4096 2022-07-01 21:31 hashsize
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 nf_conntrack_helper
+
+/sys/module/nf_conntrack_amanda:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_amanda/parameters:
+total 0
+-rw------- 1 root root 4096 2022-07-01 21:31 master_timeout
+-r-------- 1 root root 4096 2022-07-01 21:31 ts_algo
+
+/sys/module/nf_conntrack_ftp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_ftp/parameters:
+total 0
+-rw------- 1 root root 4096 2022-07-01 21:31 loose
+-r-------- 1 root root 4096 2022-07-01 21:31 ports
+
+/sys/module/nf_conntrack_h323:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_h323/parameters:
+total 0
+-rw------- 1 root root 4096 2022-07-01 21:31 callforward_filter
+-rw------- 1 root root 4096 2022-07-01 21:31 default_rrq_ttl
+-rw------- 1 root root 4096 2022-07-01 21:31 gkrouted_only
+
+/sys/module/nf_conntrack_irc:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_irc/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 dcc_timeout
+-r-------- 1 root root 4096 2022-07-01 21:31 max_dcc_channels
+-r-------- 1 root root 4096 2022-07-01 21:31 ports
+
+/sys/module/nf_conntrack_netbios_ns:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_netbios_ns/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 timeout
+
+/sys/module/nf_conntrack_sane:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_sane/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 ports
+
+/sys/module/nf_conntrack_tftp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nf_conntrack_tftp/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 ports
+
+/sys/module/ntfs:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/nvme:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/nvme/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 pci:nvme -> ../../../bus/pci/drivers/nvme
+
+/sys/module/nvme/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 io_queue_depth
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 max_host_mem_size_mb
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 sgl_threshold
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 use_cmb_sqes
+
+/sys/module/nvme_core:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/nvme_core/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 admin_timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 default_ps_max_latency_us
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 force_apst
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 io_timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_retries
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 shutdown_timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 streams
+
+/sys/module/nvmem_rockchip_otp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/nvmem_rockchip_otp/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rockchip_otp_wr_magic
+
+/sys/module/overlay:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:16 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/overlay/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 check_copy_up
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 index
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 metacopy
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 nfs_export
+-rw-r--r-- 1 root root 4096 2022-07-01 21:16 override_creds
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 redirect_always_follow
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 redirect_dir
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 redirect_max
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 xino_auto
+
+/sys/module/pcie_aspm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/pcie_aspm/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 policy
+
+/sys/module/phy_rockchip_csi2_dphy:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/phy_rockchip_csi2_dphy/parameters:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 clr_unready_dev
+
+/sys/module/ppp_generic:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ppp_generic/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 mp_protocol_compress
+
+/sys/module/ppp_mppe:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/printk:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/printk/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 always_kmsg_dump
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 console_suspend
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ignore_loglevel
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 time
+
+/sys/module/psmouse:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/psmouse/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 serio:psmouse -> ../../../bus/serio/drivers/psmouse
+
+/sys/module/psmouse/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 a4tech_workaround
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 proto
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rate
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 resetafter
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 resolution
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 resync_time
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 smartscroll
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 synaptics_intertouch
+
+/sys/module/pstore:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/pstore/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 backend
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 compress
+-rw------- 1 root root 4096 2022-07-01 21:31 update_ms
+
+/sys/module/pvrsrvkm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/pvrsrvkm/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 GeneralNon4KHeapPageSize
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 RGXBVNC
+
+/sys/module/r8152:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/r8152/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:r8152 -> ../../../bus/usb/drivers/r8152
+
+/sys/module/ramoops:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/ramoops/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 console_size
+-rw------- 1 root root 4096 2022-07-01 21:31 dump_oops
+-rw------- 1 root root 4096 2022-07-01 21:31 ecc
+-r-------- 1 root root 4096 2022-07-01 21:31 ftrace_size
+-r-------- 1 root root 4096 2022-07-01 21:31 mem_address
+-r-------- 1 root root 4096 2022-07-01 21:31 mem_size
+-rw------- 1 root root 4096 2022-07-01 21:31 mem_type
+-r-------- 1 root root 4096 2022-07-01 21:31 pmsg_size
+-r-------- 1 root root 4096 2022-07-01 21:31 record_size
+
+/sys/module/random:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/random/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ratelimit_disable
+
+/sys/module/rcupdate:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rcupdate/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rcu_cpu_stall_suppress
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rcu_cpu_stall_timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rcu_task_stall_timeout
+
+/sys/module/rcutree:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rcutree/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 blimit
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 dump_tree
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 gp_cleanup_delay
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 gp_init_delay
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 gp_preinit_delay
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 jiffies_till_first_fqs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 jiffies_till_next_fqs
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 jiffies_till_sched_qs
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 kthread_prio
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 qhimark
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 qlowmark
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 rcu_fanout_exact
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 rcu_fanout_leaf
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 rcu_kick_kthreads
+
+/sys/module/rfcomm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/rfcomm/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 channel_mtu
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 disable_cfc
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 l2cap_ertm
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 l2cap_mtu
+
+/sys/module/rfkill:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rfkill/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 default_state
+
+/sys/module/rk628_combrxphy:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk628_combrxphy/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/rk628_csi:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk628_csi/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/rk817_battery:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk817_battery/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/rk817_charger:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk817_charger/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/rk818_battery:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk818_battery/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/rk818_charger:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rk818_charger/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/rk_vcodec:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/rk_vcodec/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 mpp_dev_debug
+
+/sys/module/rknpu:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/rknpu/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 bypass_irq_handler
+
+/sys/module/rng_core:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rng_core/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 current_quality
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 default_quality
+
+/sys/module/rockchip_pwm_remotectl:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/rockchip_pwm_remotectl/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 code_print
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 dbg_level
+
+/sys/module/sch_htb:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/sch_htb/parameters:
+total 0
+-rw-r----- 1 root root 4096 2022-07-01 21:31 htb_hysteresis
+-rw-r----- 1 root root 4096 2022-07-01 21:31 htb_rate_est
+
+/sys/module/scsi_mod:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/scsi_mod/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 default_dev_flags
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 eh_deadline
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 inq_timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 max_luns
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 scan
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 scsi_logging_level
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 use_blk_mq
+
+/sys/module/sdhci:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/sdhci/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 debug_quirks
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 debug_quirks2
+
+/sys/module/sg:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/sg/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 allow_dio
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 def_reserved_size
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 scatter_elem_sz
+
+/sys/module/sgm3784:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/sgm3784/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/sierra_net:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/sierra_net/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:sierra_net -> ../../../bus/usb/drivers/sierra_net
+
+/sys/module/sit:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/sit/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 log_ecn_error
+
+/sys/module/slab_common:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/slab_common/parameters:
+total 0
+-r-------- 1 root root 4096 2022-07-01 21:31 usercopy_fallback
+
+/sys/module/smsc75xx:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/smsc75xx/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:smsc75xx -> ../../../bus/usb/drivers/smsc75xx
+
+/sys/module/smsc75xx/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 turbo_mode
+
+/sys/module/smsc95xx:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/smsc95xx/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:smsc95xx -> ../../../bus/usb/drivers/smsc95xx
+
+/sys/module/smsc95xx/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 turbo_mode
+
+/sys/module/snd:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/snd/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 cards_limit
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 major
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 slots
+
+/sys/module/snd_pcm:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/snd_pcm/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 maximum_substreams
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 preallocate_dma
+
+/sys/module/snd_timer:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/snd_timer/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 timer_limit
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 timer_tstamp_monotonic
+
+/sys/module/snd_usb_audio:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/snd_usb_audio/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:snd-usb-audio -> ../../../bus/usb/drivers/snd-usb-audio
+
+/sys/module/snd_usb_audio/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 autoclock
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 device_setup
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 enable
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 id
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 ignore_ctl_error
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 index
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 pid
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 quirk_alias
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 use_vmalloc
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 vid
+
+/sys/module/spidev:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/spidev/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 bufsiz
+
+/sys/module/spurious:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/spurious/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 irqfixup
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 noirqdebug
+
+/sys/module/srcutree:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/srcutree/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 counter_wrap_check
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 exp_holdoff
+
+/sys/module/stmmac:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/stmmac/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 buf_sz
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 chain_mode
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 eee_timer
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 flow_ctrl
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 pause
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 phyaddr
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 tc
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 watchdog
+
+/sys/module/suspend:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/suspend/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 pm_test_delay
+
+/sys/module/sysrq:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/sysrq/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 reset_seq
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 sysrq_downtime_ms
+
+/sys/module/tc35874x:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/tc35874x/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/tcp_cubic:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/tcp_cubic/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 beta
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 bic_scale
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 fast_convergence
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 hystart
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 hystart_ack_delta
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 hystart_detect
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 hystart_low_window
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 initial_ssthresh
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 tcp_friendliness
+
+/sys/module/test_power:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/test_power/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ac_online
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_capacity
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_health
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_present
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_status
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_technology
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 battery_voltage
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 usb_online
+
+/sys/module/usb_f_uvc:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/usb_f_uvc/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 trace
+
+/sys/module/usb_storage:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/usb_storage/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:usb-storage -> ../../../bus/usb/drivers/usb-storage
+
+/sys/module/usb_storage/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 delay_use
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 option_zero_cd
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 quirks
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 swi_tru_install
+
+/sys/module/usbcore:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/usbcore/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:hub -> ../../../bus/usb/drivers/hub
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:usbfs -> ../../../bus/usb/drivers/usbfs
+
+/sys/module/usbcore/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 authorized_default
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 autosuspend
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 blinkenlights
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 initial_descriptor_timeout
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 nousb
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 old_scheme_first
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 quirks
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 usbfs_memory_mb
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 usbfs_snoop
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 usbfs_snoop_max
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 use_both_schemes
+
+/sys/module/usbhid:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/usbhid/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:usbhid -> ../../../bus/usb/drivers/usbhid
+
+/sys/module/usbhid/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 ignoreled
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 jspoll
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 kbpoll
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 mousepoll
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 quirks
+
+/sys/module/usblp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/usblp/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:usblp -> ../../../bus/usb/drivers/usblp
+
+/sys/module/usblp/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 proto_bias
+
+/sys/module/uvcvideo:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/uvcvideo/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:uvcvideo -> ../../../bus/usb/drivers/uvcvideo
+
+/sys/module/uvcvideo/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 clock
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 hwtimestamps
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 nodrop
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 quirks
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 timeout
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 trace
+
+/sys/module/video_rkcif:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/video_rkcif/parameters:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 clr_unready_dev
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_csi2
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/video_rkisp:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/video_rkisp/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 clk_dbg
+--w------- 1 root root 4096 2022-07-01 21:31 clr_unready_dev
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_reg
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 monitor
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 wait_line
+
+/sys/module/video_rkisp1:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/video_rkisp1/parameters:
+total 0
+--w------- 1 root root 4096 2022-07-01 21:31 clr_unready_dev
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/videobuf2_common:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/videobuf2_common/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/videobuf2_dma_sg:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/videobuf2_dma_sg/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/videobuf2_v4l2:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/videobuf2_v4l2/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug
+
+/sys/module/wacom:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 version
+
+/sys/module/wacom/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 hid:wacom -> ../../../bus/hid/drivers/wacom
+
+/sys/module/wacom/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 touch_arbitration
+
+/sys/module/watchdog:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/watchdog/parameters:
+total 0
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 handle_boot_enabled
+
+/sys/module/workqueue:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/workqueue/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 debug_force_rr_cpu
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 disable_numa
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 power_efficient
+
+/sys/module/xhci_hcd:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/xhci_hcd/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 link_quirk
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 quirks
+
+/sys/module/xpad:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 drivers
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/xpad/drivers:
+total 0
+lrwxrwxrwx 1 root root 0 2022-07-01 21:31 usb:xpad -> ../../../bus/usb/drivers/xpad
+
+/sys/module/xpad/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 auto_poweroff
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 dpad_to_buttons
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 sticks_to_null
+-r--r--r-- 1 root root 4096 2022-07-01 21:31 triggers_to_buttons
+
+/sys/module/xt_quota2:
+total 0
+drwxr-xr-x 2 root root    0 2022-07-01 21:31 parameters
+--w------- 1 root root 4096 2022-07-01 21:31 uevent
+
+/sys/module/xt_quota2/parameters:
+total 0
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 event_num
+-rw-r--r-- 1 root root 4096 2022-07-01 21:31 perms
